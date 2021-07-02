@@ -1,5 +1,7 @@
 # karate-quarkus-demo project
 
+https://blog.ineat-group.com/2020/06/ceinture-noire-en-test-api-passez-au-dan-superieur-avec-karate/
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
